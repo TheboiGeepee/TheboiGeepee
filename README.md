@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B2A4A,100:00f7ff&height=200&section=header&text=Felix%20Godspower%20Oluwaferanmi&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Professional&descSize=16&descAlignY=58&descColor=00f7ff&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=45&lines=I+break+things+to+understand+them.+🔓;Network+Security+%7C+Threat+Analysis;Kali+Linux+%7C+Python+%7C+Security+Tooling;ISC2+CC+%26+CompTIA+Security%2B+%E2%80%94+In+Progress;Building+defences+that+hold+under+pressure." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=45&lines=I+break+things+to+understand+them.;Network+Security+%7C+Threat+Analysis;Kali+Linux+%7C+Python+%7C+Security+Tooling;ISC2+CC+%26+CompTIA+Security%2B+In+Progress;Building+defences+that+hold+under+pressure." alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 <a href="mailto:gpee083@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-gpee083%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -27,8 +24,6 @@
 
 ## 🧍 About Me
 
-<img align="right" src="https://github.com/TheboiGeepee/TheboiGeepee/blob/main/profile.png" width="200" style="border-radius:12px; margin-left:20px" alt="Felix Godspower"/>
-
 ```python
 class FelixGodspower:
     name     = "Felix Godspower Oluwaferanmi"
@@ -45,8 +40,6 @@ class FelixGodspower:
 I don't just study cybersecurity — **I practise it.**
 From scanning networks with Nmap, analysing traffic with Wireshark, and testing web apps with Burp Suite, to building Python tools and version-controlling everything on GitHub — **every repo here is proof of work.**
 
-<br clear="right"/>
-
 ---
 
 ## ⚔️ Technical Skills
@@ -62,9 +55,9 @@ From scanning networks with Nmap, analysing traffic with Wireshark, and testing 
 
 ### 🛠️ Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### 💻 Programming & DevOps
@@ -79,7 +72,7 @@ From scanning networks with Nmap, analysing traffic with Wireshark, and testing 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C84?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-005C84?style=for-the-badge)
 ![VPN](https://img.shields.io/badge/VPN-005C84?style=for-the-badge&logo=wireguard&logoColor=white)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005C84?style=for-the-badge)
 ![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-005C84?style=for-the-badge)
 
 ---
@@ -153,11 +146,11 @@ From scanning networks with Nmap, analysing traffic with Wireshark, and testing 
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AEEF?style=for-the-badge&logo=isc2&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AEEF?style=for-the-badge&logoColor=white"/><br/>
   <sub>🔄 <b>Currently Studying</b></sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logoColor=white"/><br/>
   <sub>🔄 <b>Currently Studying</b></sub>
 </td>
 <td align="center" width="33%">
@@ -183,12 +176,10 @@ From scanning networks with Nmap, analysing traffic with Wireshark, and testing 
 
 <br/><br/>
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheboiGeepee&bg_color=0d1117&color=00f7ff&line=1B2A4A&point=00f7ff&area=true&hide_border=true" width="95%"/>
 
 <br/><br/>
 
-<!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/output/github-contribution-grid-snake.svg"/>
@@ -213,6 +204,6 @@ From scanning networks with Nmap, analysing traffic with Wireshark, and testing 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:1B2A4A,100:0d1117&height=100&section=footer&fontSize=14&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:1B2A4A,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
