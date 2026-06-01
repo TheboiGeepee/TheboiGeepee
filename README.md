@@ -24,6 +24,8 @@
 
 ## 🧍 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/profile.png" width="180" alt="Felix Godspower"/>
+
 ```python
 class FelixGodspower:
     name     = "Felix Godspower Oluwaferanmi"
