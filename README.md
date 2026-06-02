@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/GitHub-TheboiGeepee-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Ondo%20State%2C%20Nigeria-00457C?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=TheboiGeepee&color=00f7ff&style=for-the-badge&label=Profile+Views"/>
 
 </div>
@@ -25,19 +23,6 @@
 ## 🧍 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/ChatGPT_Image_Jun_2__2026__12_30_49_AM-removebg-preview.png" width="180" alt="Felix Godspower"/>
-
-```python
-class FelixGodspower:
-    name     = "Felix Godspower Oluwaferanmi"
-    role     = "Cybersecurity Professional"
-    school   = "National Open University of Nigeria (NOUN)"
-    level    = "300 Level — B.Sc. Computer Science"
-    location = "Ondo State, Nigeria"
-    tools    = ["Kali Linux", "Wireshark", "Nmap", "Burp Suite", "Metasploit"]
-    focus    = ["Network Security", "Threat Analysis", "Ethical Hacking"]
-    certs    = ["ISC2 CC (studying)", "CompTIA Security+ (studying)"]
-    motto    = "Security is not a product, it's a process."
-```
 
 I don't just study cybersecurity — **I practise it.**
 From scanning networks with Nmap, analysing traffic with Wireshark, and testing web apps with Burp Suite, to building Python tools and version-controlling everything on GitHub — **every repo here is proof of work.**
