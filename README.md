@@ -24,7 +24,7 @@
 
 ## 🧍 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/profile.png" width="180" alt="Felix Godspower"/>
+<img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/ChatGPT_Image_Jun_2__2026__12_30_49_AM-removebg-preview.png" width="180" alt="Felix Godspower"/>
 
 ```python
 class FelixGodspower:
