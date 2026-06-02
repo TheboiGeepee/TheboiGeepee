@@ -22,7 +22,7 @@
 
 ## 🧍 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/ChatGPT_Image_Jun_2__2026__12_30_49_AM-removebg-preview.png" width="180" alt="Felix Godspower"/>
+<img align="right" src="https://raw.githubusercontent.com/TheboiGeepee/TheboiGeepee/main/download__1_-removebg-preview.png" width="180" alt="Felix Godspower"/>
 
 I don't just study cybersecurity — **I practise it.**
 From scanning networks with Nmap, analysing traffic with Wireshark, and testing web apps with Burp Suite, to building Python tools and version-controlling everything on GitHub — **every repo here is proof of work.**
