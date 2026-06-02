@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B2A4A,100:00f7ff&height=200&section=header&text=Felix%20Godspower%20Oluwaferanmi&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Professional&descSize=16&descAlignY=58&descColor=00f7ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B2A4A,100:00f7ff&height=200&section=header&text=Felix%20Godspower%20Oluwaferanmi&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Professional&descSize=16&descAlignY=58&descColor=00f7ff&animation=fadeIn&font=Orbitron" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=45&lines=I+break+things+to+understand+them.;Network+Security+%7C+Threat+Analysis;Kali+Linux+%7C+Python+%7C+Security+Tooling;ISC2+CC+%26+CompTIA+Security%2B+In+Progress;Building+defences+that+hold+under+pressure." alt="Typing SVG" />
 
